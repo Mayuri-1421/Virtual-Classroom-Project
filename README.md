@@ -43,7 +43,7 @@ Node.js and npm<br/>
 MySQL<br/>
 Maven<br/>
 ### 1. Clone the Repository
-git clone https://github.com/your-username/virtual-classroom.git
+git clone https://github.com/Mayuri-1421/virtual-classroom.git
 cd virtual-classroom
 
 ## Backend: Spring Boot Configuration
